@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, my name is Fernando Saz
+#### I am  Software Programing Technician 
+![I am  Software Programing Technician 
+
+c# DDD
+
+Skills: C#/REACT / JS / HTML / CSS 
+
+- 🔭 I’m currently working on this page. 
