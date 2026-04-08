@@ -1,40 +1,59 @@
-## About Me
+# Fernando Edgardo Saz Márquez
 
-Hi, I'm **Fernando Edgardo Saz Márquez**, a **Computer Technician (Tec. en Computación)** from **El Salvador** with over **20 years of experience** working with computers, from software and hardware installation to building business applications.
+**Computer Technician (Tec. en Computación)** · El Salvador · 20+ years of experience
 
-I have a strong background in **C#** for desktop and web applications, and I am currently studying **Software Engineering** at **Universidad de El Salvador (online)**. I am available for full-time or hourly work and can provide professional services.
+---
 
-## Technical Skills
+## 👤 About Me
 
-- **Backend**: C# (desktop, 3-layer model), ASP.NET Core MVC, DDD, .NET Framework, Entity Framework  
-- **Frontend**: basic React, basic Angular  
-- **Web**: HTML, JavaScript, CSS, bootstarp  
-- **Databases**: Microsoft SQL Server, Oracle, PostgreSQL, basic concepts of document databases  
-- **Dev & Ops**: GitHub, Docker, Postman, Microsoft Azure, basic AWS  
+I'm a passionate Computer Technician from El Salvador with over two decades of hands-on experience spanning hardware, software, and business application development. My journey started in the early 2000s and has grown into a deep expertise in **C# and .NET ecosystems**, building desktop and web applications using clean architectural patterns like DDD and the 3-layer model.
 
-## Soft Skills
+I'm currently pursuing a **Software Engineering degree at Universidad de El Salvador** while actively expanding into modern ERP systems, cloud infrastructure, and Python development. I run a personal home lab with Proxmox, manage self-hosted services, and am preparing to deliver custom **Odoo ERP solutions** — bridging my strong C# background with new technologies.
 
-Teamwork · Fast learning · Self-initiative · Punctuality · Friendly attitude · Constant learning · Good communication
+I'm available for **full-time or hourly work** and bring a self-driven, reliable, and collaborative attitude to every project I take on.
 
-## Projects
+✅ Open to work · 🕐 Full-time or hourly · 📍 Remote / El Salvador
 
-  In addition, I have developed software solutions to support and improve my own business operations, allowing me to gain hands-on experience in creating tailored tools that meet real-world needs.
+---
 
-- **Home Lab Infrastructure**  
-  Designed and managed a **Proxmox** environment hosting **Bitcoin Core**, **SQL Server**, **PostgreSQL**, securing external access with **Cloudflare**.
+## 💻 Technical Skills
 
-## Education
+- **Backend:** C#, ASP.NET Core MVC, DDD, .NET Framework, Entity Framework
+- **Frontend:** React, Angular, HTML, JavaScript, CSS, Bootstrap
+- **Databases:** Microsoft SQL Server, Oracle, PostgreSQL, NoSQL basics
+- **Dev & Ops:** GitHub, Docker, Postman, Microsoft Azure, AWS basics
 
-- **Software Engineering** — University of El Salvador (UES), 2023 – present  
-- **Computer Engineering Technician** — Sonsonate Technological Institute, 2004 – 2005  
-- **High School Diploma** — General Francisco Menéndez School, 2002 – 2003
+---
 
-## Odoo ERP Implementation & Development  
-  Currently managing and testing **Odoo 19 Community** in a self-hosted Docker environment to streamline business operations. I am actively preparing for **Odoo Enterprise** enrollment to leverage advanced functional features. To deepen my technical expertise, I am focusing on mastering **Python** and Odoo’s framework to develop custom modules and API integrations, bridging my extensive background in **C#** with modern ERP ecosystems.
+## 🤝 Soft Skills
 
+Teamwork · Fast learner · Self-initiative · Punctuality · Friendly · Good communication · Constant learning
 
-## Contact
+---
 
-- **Email**: fsaz87@hotmail.com  
-- **Phone**: +503 6996 4133 
-- **GitHub**: [SM23001](https://github.com/sm23001)
+## 🖥️ Projects
+
+### 🗄️ Home Lab Infrastructure
+Proxmox environment hosting Bitcoin Core, SQL Server, PostgreSQL — secured with Cloudflare for external access.
+
+### 🌐 Odoo ERP Implementation
+Managing Odoo 19 Community on self-hosted Docker. Preparing for Odoo Enterprise and developing custom Python modules + API integrations.
+
+### 📈 Business Software Solutions
+Custom tools built to support and improve own business operations, gaining real-world hands-on development experience.
+
+---
+
+## 🎓 Education
+
+- 🟣 **Software Engineering** — Universidad de El Salvador (UES), 2023 – present
+- 🟢 **Computer Engineering Technician** — Sonsonate Technological Institute, 2004 – 2005
+- ⚪ **High School Diploma** — General Francisco Menéndez School, 2002 – 2003
+
+---
+
+## 📬 Contact
+
+- 📧 **Email:** [fsaz87@hotmail.com](mailto:fsaz87@hotmail.com)
+- 📞 **Phone:** +503 6996 4133
+- 🐙 **GitHub:** [github.com/SM23001](https://github.com/sm23001)
