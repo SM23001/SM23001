@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm **Fernando Edgardo Saz Márquez**, a **Computer Technician (Tec. en Computación)** from **El Salvador** with over **20 years of experience** working with computers, from hardware and software installation to building business applications.
+Hi, I'm **Fernando Edgardo Saz Márquez**, a **Computer Technician (Tec. en Computación)** from **El Salvador** with over **20 years of experience** working with computers, from software and hardware installation to building business applications.
 
 I have a strong background in **C#** for desktop and web applications, and I am currently studying **Software Engineering** at **Universidad de El Salvador (online)**. I am available for full-time or hourly work and can provide professional services as a registered IVA taxpayer.
 
